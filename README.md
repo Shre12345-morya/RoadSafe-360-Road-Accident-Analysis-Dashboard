@@ -117,7 +117,7 @@ These filters allow users to explore accident casualty data based on selected co
 
 ### Main Dashboard
 
-![RoadSafe 360 Main Dashboard](Screenshots/Main_Dashboard.png)
+![RoadSafe 360 Main Dashboard](https://github.com/Shre12345-morya/RoadSafe-360-Road-Accident-Analysis-Dashboard/blob/main/Main%20Dashboard.png)
 
 ### Cleaned Dataset
 
