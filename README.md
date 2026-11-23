@@ -181,31 +181,21 @@ Based on the dashboard analysis, the following areas deserve further investigati
 6. **Interactivity:** Added Slicers and Timeline for dynamic filtering.
 7. **Insight Generation:** Analyzed results and identified important casualty patterns.
 
-## Project Structure
-
-
-RoadSafe-360-Road-Accident-Analysis/
+## Project Structure    
+excel project analysis/
 │
 ├── README.md
 │
 ├── Dataset/
-│   ├── Raw_Accident_Data.xlsx
-│   └── Cleaned_Accident_Data.xlsx
+│   └── DataSet_accident_data.zip
 │
-├── Excel_Dashboard/
-│   └── RoadSafe_360_Dashboard.xlsx
+├── Excel_Project/
+│   ├── Cleaned_Excel_Data.xlsx
+│   ├── Pivot_Tables.xlsx
+│   └── Road_Accident_Analysis.xlsx
 │
-├── Pivot_Tables/
-│   └── Accident_Analysis_Pivot_Tables.xlsx
-│
-├── Screenshots/
-│   ├── Cleaned_Dataset.png
-│   ├── Pivot_Tables.png
-│   └── Main_Dashboard.png
-│
-└── Documentation/
-    └── Project_Overview.md
-```
+└── Dashboard/
+    └── Main_Dashboard.png
 
 ## Project Highlights
 
