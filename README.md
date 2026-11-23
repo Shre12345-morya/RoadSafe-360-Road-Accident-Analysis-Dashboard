@@ -121,11 +121,11 @@ These filters allow users to explore accident casualty data based on selected co
 
 ### Cleaned Dataset
 
-![Cleaned Accident Dataset](Screenshots/Cleaned_Dataset.png)
+![Cleaned Accident Dataset]()
 
 ### PivotTable Analysis
 
-![Accident Analysis PivotTables](Screenshots/Pivot_Tables.png)
+![Accident Analysis PivotTables](https://github.com/Shre12345-morya/RoadSafe-360-Road-Accident-Analysis-Dashboard/blob/main/pivot%20tables.png)
 
 ## Key Performance Indicators (KPIs)
 
